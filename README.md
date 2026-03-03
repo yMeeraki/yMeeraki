@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hello, Universe! 👋
 
-<!--
-**yMeeraki/yMeeraki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Yukti Gupta — a passionate frontend developer building clean and responsive web experiences.
 
-Here are some ideas to get you started:
+## 🧠 What I Build
+- Frontend web applications  
+- Responsive UI projects  
+- Interactive JavaScript apps  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎨 What I Care About
+- Clean and readable code  
+- Simple, user-friendly design  
+- Continuous learning  
+
+## 🧩 Tech Stack
+- HTML  
+- CSS  
+- JavaScript  
+- React  
+- Node.js (Basics)  
+
+## 🚀 Featured Project
+
+### 🍰 Dessert UI Project
+A responsive dessert menu interface built while learning on Scrimba.  
+**Tech:** React • CSS  
+
+## 🌐 Connect With Me
+- LinkedIn  
+- Portfolio  
+- Scrimba Profile  
+
+---
+
+💬 I’m always open to collaboration, learning opportunities, and building exciting projects!
