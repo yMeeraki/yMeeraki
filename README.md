@@ -26,8 +26,9 @@ A responsive dessert menu interface built while learning on Scrimba.
 **Tech:** React • CSS  
 
 ## 🌐 Connect With Me
-- 🔗 [LinkedIn](https://www.linkedin.com/in/yukti-gupta-developer/)
-- 💻 [My Scrimba Profile](https://scrimba.com/?via=u4f338)
+-  [My Portfolio](https://yukti-gupta-portfolio.netlify.app/)
+-  [LinkedIn](https://www.linkedin.com/in/yukti-gupta-developer/)
+-  [My Scrimba Profile](https://scrimba.com/?via=u4f338)
 
 ---
 
