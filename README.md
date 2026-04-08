@@ -12,7 +12,7 @@ HTML, CSS, JavaScript, React, Tailwind CSS, Bootstrap, Node.js (Basics)
 - Portfolio – Personal responsive website  
 
 ## Experience
-- Web Development Mentor at Codeyoung  (Present)
+- Web Development Mentor at Codeyoung
 - Software Developer at neoG Camp  
 - Frontend Developer at Invact Metaversity  
 
