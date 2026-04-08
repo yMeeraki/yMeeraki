@@ -3,7 +3,7 @@
 Frontend Developer with 2.5+ years of experience building responsive and user-friendly web applications using HTML, CSS, JavaScript, and React.
 
 ## Tech Stack
-HTML, CSS, JavaScript, React, Tailwind CSS, Bootstrap, Node.js (Basics)
+HTML, CSS, JavaScript, jQuery, React, Tailwind CSS, Bootstrap, Node.js (Basics)
 
 ## Projects
 - Dessert UI – Responsive React interface  
