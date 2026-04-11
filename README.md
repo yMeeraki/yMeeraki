@@ -10,7 +10,7 @@ HTML, CSS, JavaScript, jQuery, React, Tailwind CSS, Bootstrap, Node.js (Basics)
 - Crypto Store – Cryptocurrency dashboard UI  
 - Scriblio – Blog app with CRUD and search  
 - Portfolio – Personal responsive website  
-
+and many more
 ## Experience
 - Web Development Mentor at Codeyoung
 - Software Developer at neoG Camp  
