@@ -5,7 +5,7 @@ Frontend Developer with 2.5+ years of experience crafting responsive, user-centr
 ---
 
 ## Tech Stack  
-**Frontend:** HTML, CSS, JavaScript, React  
+**Frontend:** HTML, CSS, JavaScript, React.js  
 **Styling:** Tailwind CSS, Bootstrap  
 **Libraries:** jQuery  
 **Backend (Basics):** Node.js  
