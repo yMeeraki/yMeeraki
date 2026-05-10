@@ -7,9 +7,9 @@ Frontend Developer with 2.5+ years of experience building responsive, user-focus
 ## Tech Stack  
 
 ### Frontend  
-- HTML  
-- CSS  
-- JavaScript  
+- HTML5  
+- CSS3  
+- JavaScript (ES6+)  
 - React.js  
 
 ### Styling  
@@ -29,43 +29,46 @@ Frontend Developer with 2.5+ years of experience building responsive, user-focus
 ## Featured Projects  
 
 ### Dessert UI  
-Modern and fully responsive React-based UI with clean component architecture and smooth user experience.
+A modern, fully responsive React-based user interface featuring reusable components, clean architecture, and smooth user experience across devices.
 
 ### Crypto Store  
-Cryptocurrency dashboard featuring dynamic data rendering, interactive UI elements, and responsive layouts.
+A cryptocurrency dashboard with dynamic data rendering, interactive UI components, and responsive layouts designed for performance and usability.
 
 ### Scriblio  
-Blog application with CRUD functionality, search features, and structured content management.
+A blog application with CRUD operations, search functionality, and structured content management for seamless content handling.
 
 ### Portfolio Website  
-Personal portfolio website showcasing projects, skills, and responsive frontend development expertise.
+A personal portfolio website showcasing projects, technical skills, and frontend development expertise with responsive design principles.
 
 ### Additional Projects  
-Built multiple frontend applications focused on UI development, responsiveness, and real-world problem-solving.
+Developed multiple frontend applications focused on responsive UI development, accessibility, performance optimization, and real-world problem-solving.
 
 ---
 
 ## Experience  
 
 ### Web Development Mentor — Codeyoung  
-- Mentored students in web development fundamentals, JavaScript, and React  
-- Guided learners in building real-world projects and strengthening problem-solving skills  
+- Mentored students in web development fundamentals, JavaScript, and React.js  
+- Guided learners in building real-world projects and improving problem-solving skills  
+- Conducted interactive coding sessions and project-based learning activities  
 
 ### Software Developer — neoG Camp  
-- Worked on frontend-focused projects using modern JavaScript and React  
+- Built frontend-focused applications using JavaScript and React.js  
 - Improved application responsiveness and UI consistency  
+- Collaborated on scalable and maintainable frontend architecture  
 
 ### Frontend Developer — Invact Metaversity  
 - Developed responsive and user-friendly web interfaces  
 - Focused on performance optimization and seamless user experience  
+- Implemented clean UI components following modern frontend practices  
 
 ---
 
 ## Portfolio & Profiles  
 
-- Portfolio: https://yukti-gupta-portfolio.netlify.app/  
-- LinkedIn: https://www.linkedin.com/in/yukti-gupta-developer/  
-- GitHub: https://github.com/yMeeraki  
+- Portfolio: [Portfolio Website](https://yukti-gupta-portfolio.netlify.app/)  
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/yukti-gupta-developer/)  
+- GitHub: [GitHub Profile](https://github.com/yMeeraki)  
 
 ---
 
