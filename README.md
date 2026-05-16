@@ -16,8 +16,7 @@ Frontend Developer with 2.5+ years of experience building responsive, user-focus
 - Tailwind CSS  
 - Bootstrap  
 
-### Libraries & Tools  
-- jQuery  
+### Libraries & Tools
 - Git  
 - GitHub  
 
