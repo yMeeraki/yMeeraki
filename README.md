@@ -4,7 +4,7 @@ Frontend Developer with 2.5+ years of experience building responsive, user-focus
 
 ---
 
-## Tech Stack  
+## Tech Stack 
 
 ### Frontend  
 - HTML5  
